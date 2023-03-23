@@ -1,4 +1,4 @@
-consent_source,uuid,activity_timestamp,processing_purpose_id,consent_purpose_id,granted
+consent_source,uuid,activity_timestamp,consent[1].processing_purpose_id,consent[1].consent_purpose_id,consent[1].granted
 curio_script,7a9ac7a7-d5ab-4fd2-8b23-3f081c01e01a,1669009784,7,4,true
 curio_script,52a96152-00ce-4b42-bf61-07a9e22e7d12,1669009784,7,4,false
 curio_script,76491f1c-e6fe-40f5-8d39-24ee8e5b90db,1669009784,7,4,false
